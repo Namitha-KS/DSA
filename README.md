@@ -7,3 +7,4 @@
 | -------- | ------- | ------------------------------------------- |
 | Day 1    | [Problem](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=difficulty) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Search%20an%20Element%20in%20an%20array) |
 | Day 2    | [Problem](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&sortBy=submissions) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Find%20minimum%20and%20maximum%20element%20in%20an%20array) |
+| Day 3    | [Problem](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=1&sortBy=submissions) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Wave%20Array) |
