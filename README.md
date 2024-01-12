@@ -10,3 +10,4 @@
 | Day 3    | [Problem](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=1&sortBy=submissions) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Wave%20Array) |
 | Day 4    | [Problem](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Find%20minimum%20and%20maximum%20element%20in%20an%20array) |
 | Day 5    | [Problem](https://geeksforgeeks.org/problems/remove-k-digits/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Remove%20K%20Digits) |
+| Day 5    | [Problem](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Reverse%20First%20K%20elements%20of%20Queue) |
