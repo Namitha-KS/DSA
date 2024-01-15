@@ -12,3 +12,4 @@
 | Day 5    | [Problem](https://geeksforgeeks.org/problems/remove-k-digits/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Remove%20K%20Digits) |
 | Day 6    | [Problem](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Reverse%20First%20K%20elements%20of%20Queue) |
 | Day 7    | [Problem](https://www.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Find%20duplicate%20rows%20in%20a%20binary%20matrix) |
+| Day 8    | [Problem](https://www.geeksforgeeks.org/problems/grinding-geek/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Grinding%20Geek) |
