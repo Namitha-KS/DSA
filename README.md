@@ -14,3 +14,4 @@
 | Day 7    | [Problem](https://www.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Find%20duplicate%20rows%20in%20a%20binary%20matrix) |
 | Day 8    | [Problem](https://www.geeksforgeeks.org/problems/grinding-geek/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Grinding%20Geek) |
 | Day 9    | [Problem](https://www.geeksforgeeks.org/problems/sequence-of-sequence1155/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Sequence%20of%20Sequence) |
+| Day 10   | [Problem](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1) | [Solution](https://github.com/Namitha-KS/DSA/blob/main/All%20Unique%20Permutations%20of%20an%20array) |
