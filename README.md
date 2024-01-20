@@ -16,3 +16,4 @@
 | Day 9    | [Problem](https://www.geeksforgeeks.org/problems/sequence-of-sequence1155/1) | [Solution](https://github.com/Namitha-S-11465/DSA/blob/main/Sequence%20of%20Sequence) |
 | Day 10   | [Problem](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/1) | [Solution](https://github.com/Namitha-KS/DSA/blob/main/All%20Unique%20Permutations%20of%20an%20array) |
 | Day 11   | [Problem](https://www.geeksforgeeks.org/problems/water-the-plants--170646/1) | [Solution](https://github.com/Namitha-KS/DSA/blob/main/Water%20the%20plants) |
+| Day 12   | [Problem](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1) | [Solution](https://github.com/Namitha-KS/DSA/blob/main/Merge%202%20sorted%20linked%20list%20in%20reverse%20order) |
